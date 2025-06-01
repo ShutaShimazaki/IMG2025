@@ -45,7 +45,8 @@
 2600.0s	21297	imc2023_haiper,outliers,fountain_image_000.png,nan;nan;nan;nan;nan;nan;nan;nan;nan,nan;nan;nan
 2600.0s	21298	imc2023_haiper,outliers,fountain_image_007.png,nan;nan;nan;nan;nan;nan;nan;nan;nan,nan;nan;nan
 2600.0s	21299	imc2023_haiper,outliers,fountain_image_012.png,nan;nan;nan;nan;nan;nan;nan;nan;nan,nan;nan;nan
-2600.2s	21300	imc2023_haiper: score=0.00% (mAA=0.00%, clusterness=100.00%)
+
+**2600.2s	21300	imc2023_haiper: score=0.00% (mAA=0.00%, clusterness=100.00%)
 2600.2s	21301	imc2023_heritage: score=0.00% (mAA=0.00%, clusterness=100.00%)
 2600.2s	21302	imc2023_theather_imc2024_church: score=0.00% (mAA=0.00%, clusterness=100.00%)
 2600.2s	21303	imc2024_dioscuri_baalshamin: score=0.00% (mAA=0.00%, clusterness=100.00%)
@@ -57,9 +58,11 @@
 2770.5s	21309	amy_gardens: score=30.90% (mAA=18.27%, clusterness=100.00%)
 2770.5s	21310	fbk_vineyard: score=0.00% (mAA=0.00%, clusterness=100.00%)
 2770.5s	21311	ETs: score=20.52% (mAA=13.46%, clusterness=43.18%)
-2770.5s	21312	stairs: score=0.00% (mAA=0.00%, clusterness=100.00%)
-2770.5s	21313	Average over all datasets: score=3.96% (mAA=2.44%, clusterness=95.63%)
-2770.5s	21314	Computed metric in: 170.40 sec.
+2770.5s	21312	stairs: score=0.00% (mAA=0.00%, clusterness=100.00%)**
+
+
+**2770.5s	21313	Average over all datasets: score=3.96% (mAA=2.44%, clusterness=95.63%)
+2770.5s	21314	Computed metric in: 170.40 sec.**
 
 ### ver6
 15297.1s	53644	Results
@@ -89,14 +92,16 @@
 15297.4s	53668	imc2023_theather_imc2024_church: score=0.00% (mAA=0.00%, clusterness=100.00%)
 15297.4s	53669	imc2024_dioscuri_baalshamin: score=0.00% (mAA=0.00%, clusterness=100.00%)
 15297.4s	53670	imc2024_lizard_pond: score=0.00% (mAA=0.00%, clusterness=100.00%)
-15297.4s	53671	pt_brandenburg_british_buckingham: score=0.00% (mAA=0.00%, clusterness=100.00%)
+
+**15297.4s	53671	pt_brandenburg_british_buckingham: score=0.00% (mAA=0.00%, clusterness=100.00%)
 15297.4s	53672	pt_piazzasanmarco_grandplace: score=0.00% (mAA=0.00%, clusterness=100.00%)
 15297.4s	53673	pt_sacrecoeur_trevi_tajmahal: score=0.00% (mAA=0.00%, clusterness=100.00%)
 15297.4s	53674	pt_stpeters_stpauls: score=0.00% (mAA=0.00%, clusterness=100.00%)
 15418.9s	53675	amy_gardens: score=28.70% (mAA=16.75%, clusterness=100.00%)
 15485.1s	53676	fbk_vineyard: score=30.58% (mAA=28.25%, clusterness=33.33%)
-15485.1s	53677	ETs: score=24.71% (mAA=17.31%, clusterness=43.18%)
-15485.3s	53678	stairs: score=0.00% (mAA=0.00%, clusterness=50.00%)
-15485.3s	53679	Average over all datasets: score=6.46% (mAA=4.79%, clusterness=86.66%)
+15485.1s	53677	ETs: score=24.71% (mAA=17.31%, clusterness=43.18%)**
+
+**15485.3s	53678	stairs: score=0.00% (mAA=0.00%, clusterness=50.00%)
+15485.3s	53679	Average over all datasets: score=6.46% (mAA=4.79%, clusterness=86.66%)**
 
 
