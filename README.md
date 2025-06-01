@@ -3,7 +3,7 @@
 ## アプローチ
 
 ![image](https://github.com/user-attachments/assets/51615a0d-060b-44b7-bc66-d751a1cbddb1)
-[kaggle IMC2024コンペ　上位解法まとめ]([url](https://zenn.dev/yume_neko/articles/050c204c3afd20))
+[kaggle IMC2024コンペ　上位解法まとめ](https://zenn.dev/yume_neko/articles/050c204c3afd20#%E3%82%B3%E3%83%B3%E3%83%9A%E6%A6%82%E8%A6%81)
 
 ### 1. 画像ペア選択　(共通領域を持つ画像ペアの選択）
 * 画像から特徴量（Global Feature）を抽出して類似度の高いペアを選択する方法で、ベースラインが採用していたこともあり、上位チームの多くもこちらの戦略を採用していました。
