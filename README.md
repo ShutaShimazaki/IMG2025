@@ -104,8 +104,6 @@
 **15485.3s	53678	stairs: score=0.00% (mAA=0.00%, clusterness=50.00%)
 15485.3s	53679	Average over all datasets: score=6.46% (mAA=4.79%, clusterness=86.66%)**
 
-## エラー
+# エラー
 * 列数が違う。１列目のimage_idが存在しない。
 * ではなぜbaselineでsubmitができた？
-
-
