@@ -112,8 +112,7 @@
 ## 結果
 Private: 163/944 \
 提出:10回 \
-参加期間：10日間 \
-
+参加期間：10日間 
 <img width="1155" alt="スクリーンショット 2025-06-04 23 40 58" src="https://github.com/user-attachments/assets/df89a223-134f-4134-a49b-2fb1f4a800f7" />
 
 ## 反省会
